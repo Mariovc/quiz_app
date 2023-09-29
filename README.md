@@ -1,6 +1,6 @@
 # quiz_app
 
-A new Flutter project.
+[![demo](./art/quiz_app.gif)]().
 
 ## Getting Started
 
